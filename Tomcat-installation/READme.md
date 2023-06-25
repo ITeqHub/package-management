@@ -7,7 +7,7 @@
 + AWS Acccount.
 + Create Redhat EC2 T2.micro Instance.
 + Create Security Group and open Tomcat ports or Required ports.
-   + 8080 ..etc use 8177
+   + 8080 ..etc (use 8177) under security group use **ALL** for the **Protocol** under **All traffic**  for **Type**
 + Attach Security Group to EC2 Instance.
 + Install java openJDK 1.8+
 
